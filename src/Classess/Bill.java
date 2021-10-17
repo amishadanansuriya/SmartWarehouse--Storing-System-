@@ -33,6 +33,7 @@ public class Bill {
     private String closeComment;
 
     public Bill() {
+        
     }
 
     public Bill(String jobNo, String closedate, String closeComment, int status) {
